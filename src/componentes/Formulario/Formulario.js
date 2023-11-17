@@ -14,12 +14,13 @@ export const Formulario = () => {
     "Inovação e Gestão",
   ];
 
-  const [nome, setNome] = useState('');
-  const [cargo, setCargo] = useState('');
-  const [imagem, setImagem] = useState('');
+  const [nome, setNome] = useState("");
+  const [cargo, setCargo] = useState("");
+  const [imagem, setImagem] = useState("");
 
   const aoSalvar = (evento) => {
     evento.preventDefault();
+
   };
 
   return (
