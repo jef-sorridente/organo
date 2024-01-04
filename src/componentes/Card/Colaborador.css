@@ -1,0 +1,32 @@
+.colaborador {
+  width: 262px;
+  height: 272px;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #fff;
+  margin: 40px 12px;
+}
+
+.cabecalho {
+  height: 92px;
+}
+
+.cabecalho img {
+  width: 120px;
+  border-radius: 50%;
+  margin-top: 40px;
+}
+
+.rodape-card h4 {
+  font-size: 18px;
+  margin-top: 18px;
+  color: #6278f7;
+  padding-top: 88px;
+  margin: 0;
+}
+
+.rodape-card h5 {
+  margin: 10px;
+  font-weight: 400;
+  font-size: 16px;
+}
